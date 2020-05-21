@@ -37,7 +37,7 @@ function App (){
               </ul>
             </div>
           </nav>
-          <Route path="/" exact component={Home} />
+          <Route path={process.env.PUBLIC_URL + '/'} exact component={Home} />
           <Route path="/reproductive-health" component={Home} />
           <Route path="/std/" component={FlashCardPage} />
           <Route path="/sexual-orientation/" component={QuizPage} />
