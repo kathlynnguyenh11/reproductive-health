@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reproductive-health/static/css/main.34bcb8b8.chunk.css",
+    "main.js": "/reproductive-health/static/js/main.60017b84.chunk.js",
+    "main.js.map": "/reproductive-health/static/js/main.60017b84.chunk.js.map",
+    "runtime-main.js": "/reproductive-health/static/js/runtime-main.f963bf99.js",
+    "runtime-main.js.map": "/reproductive-health/static/js/runtime-main.f963bf99.js.map",
+    "static/js/2.43b08b42.chunk.js": "/reproductive-health/static/js/2.43b08b42.chunk.js",
+    "static/js/2.43b08b42.chunk.js.map": "/reproductive-health/static/js/2.43b08b42.chunk.js.map",
+    "index.html": "/reproductive-health/index.html",
+    "precache-manifest.726b2e9e5acc07d92596f1df07e08d7d.js": "/reproductive-health/precache-manifest.726b2e9e5acc07d92596f1df07e08d7d.js",
+    "service-worker.js": "/reproductive-health/service-worker.js",
+    "static/css/main.34bcb8b8.chunk.css.map": "/reproductive-health/static/css/main.34bcb8b8.chunk.css.map",
+    "static/js/2.43b08b42.chunk.js.LICENSE.txt": "/reproductive-health/static/js/2.43b08b42.chunk.js.LICENSE.txt",
+    "static/media/carousel.png": "/reproductive-health/static/media/carousel.6d0ee9a8.png",
+    "static/media/logo.png": "/reproductive-health/static/media/logo.f2da7ffe.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f963bf99.js",
+    "static/js/2.43b08b42.chunk.js",
+    "static/css/main.34bcb8b8.chunk.css",
+    "static/js/main.60017b84.chunk.js"
+  ]
+}
