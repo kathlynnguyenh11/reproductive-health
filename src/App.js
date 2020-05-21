@@ -17,7 +17,7 @@ function App (){
             <div className="collapse navbar-collapse" id="navbarSupportedContent">
               <ul className="navbar-nav mr-auto">
                 <li className="nav-item active">
-                  <Link className="nav-link dangling-font brand text-white" to="/">For a better reproductive health</Link>      
+                  <Link className="nav-link dangling-font brand text-white" to="/reproductive-health">For a better reproductive health</Link>      
                 </li>
               </ul>
             </div>
@@ -38,6 +38,7 @@ function App (){
             </div>
           </nav>
           <Route path="/" exact component={Home} />
+          <Route path="/reproductive-health" component={Home} />
           <Route path="/std/" component={FlashCardPage} />
           <Route path="/sexual-orientation/" component={QuizPage} />
           <Route path="/reproductive-anatomy/" component={VideoPage} />
