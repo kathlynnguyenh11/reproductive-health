@@ -5,7 +5,8 @@ A ReactJS application to educate about reproductive health by minigames (flashca
 Reference for the content is from https://www.plannedparenthood.org <br />
 Tool & Framework: 
   - [Create React App](https://github.com/facebook/create-react-app) 
-  - Bootstrap
+  - JavaScript
+  - Bootstrap, CSS
   - React Router
   - React-Youtube
   
