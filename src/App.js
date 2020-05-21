@@ -10,7 +10,7 @@ import logo from './asset/logo.png';
 
 function App (){
     return (
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <div className="container">
           <nav className="navbar navbar-expand-lg navbar-light bg-2">
            
