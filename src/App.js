@@ -38,7 +38,7 @@ function App (){
             </div>
           </nav>
           <Route path="/" exact component={Home} />
-          <Route path="/reproductive-health" component={Home} />
+          <Route path="/" component={Home} />
           <Route path="/std/" component={FlashCardPage} />
           <Route path="/sexual-orientation/" component={QuizPage} />
           <Route path="/reproductive-anatomy/" component={VideoPage} />
