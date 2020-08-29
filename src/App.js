@@ -37,6 +37,7 @@ function App (){
               </ul>
             </div>
           </nav>
+          <Route path={process.env.PUBLIC_URL + '/reproductive-health'} exact component={Home} />
           <Route path="/" exact component={Home} />
           <Route path="/" component={Home} />
           <Route path="/std/" component={FlashCardPage} />
